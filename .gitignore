@@ -5,3 +5,5 @@ image[12].jpg
 /readme.txt
 /images/
 /doc/**/*.txt
+*.png
+!*.png
